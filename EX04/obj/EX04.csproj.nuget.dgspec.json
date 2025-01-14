@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eliezer.psantos1\\source\\repos\\logica_programacao_tarde_ter_qui\\EX04\\EX04.csproj": {}
+    "C:\\Users\\eliezer.psantos1\\source\\repos\\logica_programacao_tarde_ter_qui\\EX04\\ex04.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eliezer.psantos1\\source\\repos\\logica_programacao_tarde_ter_qui\\EX04\\EX04.csproj": {
+    "C:\\Users\\eliezer.psantos1\\source\\repos\\logica_programacao_tarde_ter_qui\\EX04\\ex04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eliezer.psantos1\\source\\repos\\logica_programacao_tarde_ter_qui\\EX04\\EX04.csproj",
-        "projectName": "EX04",
-        "projectPath": "C:\\Users\\eliezer.psantos1\\source\\repos\\logica_programacao_tarde_ter_qui\\EX04\\EX04.csproj",
+        "projectUniqueName": "C:\\Users\\eliezer.psantos1\\source\\repos\\logica_programacao_tarde_ter_qui\\EX04\\ex04.csproj",
+        "projectName": "ex04",
+        "projectPath": "C:\\Users\\eliezer.psantos1\\source\\repos\\logica_programacao_tarde_ter_qui\\EX04\\ex04.csproj",
         "packagesPath": "C:\\Users\\eliezer.psantos1\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\eliezer.psantos1\\source\\repos\\logica_programacao_tarde_ter_qui\\EX04\\obj\\",
         "projectStyle": "PackageReference",
