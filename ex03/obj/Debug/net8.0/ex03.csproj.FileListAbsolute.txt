@@ -1,0 +1,14 @@
+C:\Users\eliezer.psantos1\source\repos\logica_programacao_tarde_ter_qui\ex03\bin\Debug\net8.0\ex03.exe
+C:\Users\eliezer.psantos1\source\repos\logica_programacao_tarde_ter_qui\ex03\bin\Debug\net8.0\ex03.deps.json
+C:\Users\eliezer.psantos1\source\repos\logica_programacao_tarde_ter_qui\ex03\bin\Debug\net8.0\ex03.runtimeconfig.json
+C:\Users\eliezer.psantos1\source\repos\logica_programacao_tarde_ter_qui\ex03\bin\Debug\net8.0\ex03.dll
+C:\Users\eliezer.psantos1\source\repos\logica_programacao_tarde_ter_qui\ex03\bin\Debug\net8.0\ex03.pdb
+C:\Users\eliezer.psantos1\source\repos\logica_programacao_tarde_ter_qui\ex03\obj\Debug\net8.0\ex03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliezer.psantos1\source\repos\logica_programacao_tarde_ter_qui\ex03\obj\Debug\net8.0\ex03.AssemblyInfoInputs.cache
+C:\Users\eliezer.psantos1\source\repos\logica_programacao_tarde_ter_qui\ex03\obj\Debug\net8.0\ex03.AssemblyInfo.cs
+C:\Users\eliezer.psantos1\source\repos\logica_programacao_tarde_ter_qui\ex03\obj\Debug\net8.0\ex03.csproj.CoreCompileInputs.cache
+C:\Users\eliezer.psantos1\source\repos\logica_programacao_tarde_ter_qui\ex03\obj\Debug\net8.0\ex03.dll
+C:\Users\eliezer.psantos1\source\repos\logica_programacao_tarde_ter_qui\ex03\obj\Debug\net8.0\refint\ex03.dll
+C:\Users\eliezer.psantos1\source\repos\logica_programacao_tarde_ter_qui\ex03\obj\Debug\net8.0\ex03.pdb
+C:\Users\eliezer.psantos1\source\repos\logica_programacao_tarde_ter_qui\ex03\obj\Debug\net8.0\ex03.genruntimeconfig.cache
+C:\Users\eliezer.psantos1\source\repos\logica_programacao_tarde_ter_qui\ex03\obj\Debug\net8.0\ref\ex03.dll
